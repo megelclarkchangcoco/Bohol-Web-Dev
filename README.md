@@ -1,4 +1,6 @@
 # Bohol-Web-Dev
 Bohol History Web Dev my Senior High School Final Project
 
-<img src="https://drive.google.com/file/d/1DNAHCFn32lQomcLOV_l4OVx3okpzmIW6/view?usp=sharing" alt="Image description">
+<h3 align="center"> Home Page</h3>
+
+<img align = "center" alt="Coding" width="1000" src="https://github.com/megelclarkchangcoco/Bohol-Web-Dev/blob/main/Grade%2012%20Web%20Dev%20Final%20Project/assets/assets/img1.png">
